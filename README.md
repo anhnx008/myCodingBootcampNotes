@@ -24,7 +24,8 @@ git pull    - downloads the freshest version
 ### GIT Repository
     git clone https://github.com/JasonErdahl/myCodingBootcampNotes.git
 ### GIT COMMANDS
-1. git add .
-2. git commit -m "message about what committing"
-3. git push
+1. git add . (stage changes- the dot stages all the changes)
+2. git commit -m "message about what committing" -commit to local repo
+3. git push- push to remote repo
+4. git status - gives you update/diagnostic for your repo
 
